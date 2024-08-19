@@ -1,0 +1,42 @@
+## basic
+plymouth
+sudo
+openssh
+nano
+git
+git-delta
+networkmanager
+curl
+reflector
+pacman-contrib
+tealdeer
+htop
+tmux
+ufw
+
+## shell
+zsh
+zsh-syntax-highlighting
+zsh-autosuggestions
+zsh-completions
+
+## filesystem
+exfatprogs
+
+## font
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
+noto-fonts-extra
+jetbrains-mono
+ttf-nerd-fonts-symbols
+
+## bluetooth
+# bluez
+# bluez-utils
+
+## audio
+pipewire
+pipewire-alsa
+pipewire-jack
+pipewire-pulse

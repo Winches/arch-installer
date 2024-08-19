@@ -1,0 +1,19 @@
+flatpak
+firefox
+firefox-i18n-zh-cn
+thunderbird
+thunderbird-i18n-zh-cn
+kitty
+fastfetch
+lazygit
+gufw
+# image viewer
+loupe
+peek
+# disk analyzer
+baobab
+# document viewer
+evince
+# power management
+# tlp
+variety

@@ -1,0 +1,10 @@
+## DE/WM
+gnome
+gnome-tweaks
+dconf-editor
+# graphic
+mesa
+vulkan-icd-loader
+# amd
+vulkan-radeon
+libva-mesa-driver
